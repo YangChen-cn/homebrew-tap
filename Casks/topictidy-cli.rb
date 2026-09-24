@@ -1,6 +1,6 @@
 cask "topictidy-cli" do
-  version "0.10.1"
-  sha256 "75f847e6074498c5515a1cc44335dd5b7729de800f9c367934694c37ba4513ac"
+  version "1.0.0"
+  sha256 "e917a0a2c94c46b0184b1de0d6606736490b4d3737222808889c7a8a56cbe3c1"
 
   url "https://github.com/YangChen-cn/TopicTidy/releases/download/v#{version}/topictidy-cli-#{version}-arm64.tar.gz"
   name "TopicTidy CLI"
