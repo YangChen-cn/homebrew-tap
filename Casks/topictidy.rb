@@ -1,6 +1,6 @@
 cask "topictidy" do
-  version "1.0.0"
-  sha256 "ee12712df73f4ffdbf258d75949a8c8a19899ba8564151dd8c61b6c8f7c14946"
+  version "1.0.1"
+  sha256 "81e981500a3eed9ea37a24406ea6e3363e561eff805fdcdcb9aa32f89eecae27"
 
   url "https://github.com/YangChen-cn/TopicTidy/releases/download/v#{version}/TopicTidy-#{version}-arm64.dmg"
   name "TopicTidy"
